@@ -28,9 +28,18 @@ Get the ships location , x and y points during running.
 Gets and keeps ships raidus
 
 ### AsteroidItSelf
+#### AsteroidIts()
+Gives contructor, formuala for direction and velocity.
 
+#### Move()
+Moves the asteroid and allows for wrap around when 
+going beyong applet Dimensions.
 
+#### Draw()
+Draws and fills in an Asteroid
 
+#### ShipCollision()
+Checks to see if the asteroid and Ship has collided.
 ## Works cited
 (https://help.github.com/articles/markdown-basics/)
 (https://www.youtube.com/watch?v=6XoVf4x-tag)
